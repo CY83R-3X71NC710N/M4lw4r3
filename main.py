@@ -1,4 +1,3 @@
-""
 #!/usr/bin/env python
 # CY83R-3X71NC710N Copyright 2023
 
